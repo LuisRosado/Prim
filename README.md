@@ -35,11 +35,12 @@ pip install opencv-python numpy networkx
 
 A continuación se muestra un ejemplo de cómo se vería el resultado de la detección de esquinas y la construcción del grafo mínimo:
 
-![Ejemplo de Resultado](ejemplo_resultado.png)
-![Ejemplo de Resultado](ejemplo_resultado.png)
-
-![Ejemplo de Resultado](ejemplo_resultado.png)
-![Ejemplo de Resultado](ejemplo_resultado.png)
+![Ejemplo de Resultado](https://github.com/LuisRosado/Prim/assets/140114139/03686b57-6de0-4568-846b-7aeeede72b18)
+![Ejemplo de Resultado](https://github.com/LuisRosado/Prim/assets/140114139/01d66304-45b3-492b-a8b2-95b763ce6e3d)
+![Ejemplo de Resultado](https://github.com/LuisRosado/Prim/assets/140114139/0b1e087e-4c82-4a57-af23-bc0262d68d90)
+![Ejemplo de Resultado](https://github.com/LuisRosado/Prim/assets/140114139/8f84be6e-5d12-4e5c-8235-2ee7fd1f645b)
+![Ejemplo de Resultado](https://github.com/LuisRosado/Prim/assets/140114139/d8ac4a14-f17a-481b-9783-ba0decc7ce82)
+![Ejemplo de Resultado](https://github.com/LuisRosado/Prim/assets/140114139/289ecb3a-6af3-49c3-86a5-4be89896ff13)
 
 ## Notas Adicionales
 
